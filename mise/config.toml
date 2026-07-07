@@ -1,0 +1,18 @@
+[tools]
+atuin = "latest"
+bat = "latest"
+colima = "latest"
+direnv = "latest"
+docker-cli = "latest"
+docker-compose = "latest"
+eza = "latest"
+fd = "latest"
+ffmpeg = "latest"
+git-lfs = "latest"
+ripgrep = "latest"
+starship = "latest"
+typst = "latest"
+zellij = "latest"
+zoxide = "latest"
+[settings]
+lockfile = true
