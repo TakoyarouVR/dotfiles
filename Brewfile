@@ -18,4 +18,6 @@ cask "skim"
 cask "slack"
 # Multiplayer code editor
 cask "zed"
+# Video communication and virtual meeting platform
+cask "zoom"
 cargo "mdbook"
