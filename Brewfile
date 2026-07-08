@@ -1,7 +1,5 @@
 # Polyglot runtime manager (asdf rust clone)
 brew "mise"
-# Easiest, most secure way to use WireGuard and 2FA
-brew "tailscale", restart_service: :changed
 # Chromium based browser
 cask "arc"
 # Voice and text chat software
@@ -16,6 +14,8 @@ cask "raycast"
 cask "skim"
 # Team communication and collaboration software
 cask "slack"
+# Mesh VPN based on WireGuard
+cask "tailscale-app"
 # Multiplayer code editor
 cask "zed"
 # Video communication and virtual meeting platform
