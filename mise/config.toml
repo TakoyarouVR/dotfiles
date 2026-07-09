@@ -1,6 +1,7 @@
 [tools]
 atuin = "latest"
 bat = "latest"
+claude-code = "latest"
 colima = "latest"
 direnv = "latest"
 docker-cli = "latest"
@@ -10,6 +11,8 @@ fd = "latest"
 ffmpeg = "latest"
 git-lfs = "latest"
 make = "latest"
+node = "latest"
+"npm:claude-code-router" = "latest"
 ripgrep = "latest"
 starship = "latest"
 typst = "latest"
@@ -17,3 +20,4 @@ zellij = "latest"
 zoxide = "latest"
 [settings]
 lockfile = true
+minimum_release_age = "3d"
