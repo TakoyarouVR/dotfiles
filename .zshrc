@@ -9,6 +9,7 @@ alias cd="z"
 alias grep="rg"
 alias awk="gawk"
 alias rm="trash"
+alias diff="delta"
 
 export HOMEBREW_NO_ENV_HINTS=1
 
