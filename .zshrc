@@ -8,6 +8,7 @@ alias cat="bat"
 alias cd="z"
 alias grep="rg"
 alias awk="gawk"
+alias rm="trash"
 
 export HOMEBREW_NO_ENV_HINTS=1
 
