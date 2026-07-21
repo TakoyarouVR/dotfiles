@@ -16,6 +16,8 @@ cask "skim"
 cask "slack"
 # Mesh VPN based on WireGuard
 cask "tailscale-app"
+# Virtual machines UI using QEMU
+cask "utm"
 # Multiplayer code editor
 cask "zed"
 # Video communication and virtual meeting platform

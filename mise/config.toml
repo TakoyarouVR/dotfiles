@@ -1,7 +1,6 @@
 [tools]
 atuin = "latest"
 bat = "latest"
-claude-code = "latest"
 colima = "latest"
 delta = "latest"
 direnv = "latest"
