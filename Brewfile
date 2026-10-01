@@ -1,3 +1,5 @@
+# Tools and libraries to manipulate images in select formats
+brew "imagemagick"
 # Polyglot runtime manager (asdf rust clone)
 brew "mise"
 # Chromium based browser
